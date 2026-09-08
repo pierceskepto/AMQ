@@ -27,10 +27,10 @@ SECRET_KEY = os.environ.get("DJANGO_SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["amq-1.onrender.com/"]
+ALLOWED_HOSTS = ["amq-1.onrender.com"]
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://amq-1.onrender.com/",
+    "https://amq-1.onrender.com",
 ]
 
 
