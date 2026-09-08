@@ -997,7 +997,7 @@
     }
     
     try {
-      const url = `http://127.0.0.1:8001/next-question/${studentId}/${currentTopicKey}`;
+      const url = `https://adaptivemathquiz.onrender.com/next-question/${studentId}/${currentTopicKey}`;
       
       const response = await fetch(url, {
         method: "POST",
@@ -1132,7 +1132,7 @@
         difficulty: currentQuestion.difficulty
       };
 
-      const response = await fetch("http://127.0.0.1:8001/check-answer", {
+      const response = await fetch("https://adaptivemathquiz.onrender.com/check-answer", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(payload),

@@ -611,7 +611,7 @@ def get_daily_challenge(request, student_id):
                 
                 # Request a question from FastAPI
                 response = requests.post(
-                    f'http://127.0.0.1:8001/next-question/{student_id}/{topic_key}',
+                    f'https://adaptivemathquiz.onrender.com/next-question/{student_id}/{topic_key}',
                     json=[],
                     timeout=5
                 )

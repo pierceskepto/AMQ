@@ -179,6 +179,24 @@
       "time_spent": 2.311,
       "difficulty": "medium",
       "timestamp": "2026-01-23T04:00:17.800350"
+    },
+    {
+      "question": "Which is greater: 5/8 or 3/4?",
+      "answer": "Equal",
+      "correct": false,
+      "points": 0,
+      "time_spent": 1.535,
+      "difficulty": "medium",
+      "timestamp": "2026-09-08T18:39:01.522707"
+    },
+    {
+      "question": "What is 2/3 of 6?",
+      "answer": "3",
+      "correct": false,
+      "points": 0,
+      "time_spent": 1.156,
+      "difficulty": "medium",
+      "timestamp": "2026-09-08T18:39:04.040275"
     }
   ]
 }

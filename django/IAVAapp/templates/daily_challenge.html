@@ -434,7 +434,7 @@ async function loadQuestion() {
     const topicKey = topicMap[currentChallenge.topic] || 'fractions';
     
     const response = await fetch(
-      `http://127.0.0.1:8001/next-question/${studentId}/${topicKey}`,
+      `https://adaptivemathquiz.onrender.com/next-question/${studentId}/${topicKey}`,
       {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -514,7 +514,7 @@ document.getElementById('submitBtn').addEventListener('click', async () => {
 
   try {
     // First check answer with FastAPI
-    const checkResponse = await fetch('http://127.0.0.1:8001/check-answer', {
+    const checkResponse = await fetch('https://adaptivemathquiz.onrender.com/check-answer', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
