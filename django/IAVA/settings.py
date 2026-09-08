@@ -27,10 +27,10 @@ SECRET_KEY = os.environ.get("django-insecure-cwxn(f*6kos=m1ir$6u8+@ke3ygt@5*fqb)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["adaptivemathquiz.onrender.com"]
+ALLOWED_HOSTS = ["amq-1.onrender.com/"]
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://adaptivemathquiz.onrender.com",
+    "https://amq-1.onrender.com/",
 ]
 
 
