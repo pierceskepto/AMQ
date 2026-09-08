@@ -1,0 +1,184 @@
+{
+  "53": [
+    {
+      "question": "Which number is the greater 1/2 or 1/3?",
+      "answer": "1/3",
+      "correct": false,
+      "points": 0,
+      "time_spent": 6.14,
+      "difficulty": "easy",
+      "timestamp": "2025-11-20T10:17:52.086026"
+    },
+    {
+      "question": "What is 1/3 + 1/3?",
+      "answer": "2/6",
+      "correct": false,
+      "points": 0,
+      "time_spent": 4.296,
+      "difficulty": "easy",
+      "timestamp": "2025-11-20T10:17:58.715126"
+    },
+    {
+      "question": "Which fraction is equal to 2/4?",
+      "answer": "1/2",
+      "correct": true,
+      "points": 125,
+      "time_spent": 5.779,
+      "difficulty": "easy",
+      "timestamp": "2025-11-20T10:18:07.885729"
+    },
+    {
+      "question": "Liam ate 1/4 of a chocolate bar. Then he ate 2/4 more. What fraction of the chocolate bar did he eat in total?",
+      "answer": "3/4",
+      "correct": true,
+      "points": 200,
+      "time_spent": 3.51,
+      "difficulty": "medium",
+      "timestamp": "2025-11-20T10:18:12.147209"
+    },
+    {
+      "question": "A recipe needs 2/3 cup of milk, but you only have a 1/6 cup measuring spoon. How many scoops do you need?",
+      "answer": "4",
+      "correct": true,
+      "points": 200,
+      "time_spent": 22.161,
+      "difficulty": "hard",
+      "timestamp": "2025-11-20T10:18:35.189942"
+    },
+    {
+      "question": "What is the supplement of a 132\u00b0 angle?",
+      "answer": "68\u00b0",
+      "correct": false,
+      "points": 0,
+      "time_spent": 10.698,
+      "difficulty": "hard",
+      "timestamp": "2025-11-21T00:32:39.004400"
+    },
+    {
+      "question": "An angle measures 110\u00b0. What type of angle is it?",
+      "answer": "Right",
+      "correct": false,
+      "points": 0,
+      "time_spent": 17.802,
+      "difficulty": "medium",
+      "timestamp": "2025-11-23T02:55:21.947580"
+    },
+    {
+      "question": "What is 1/5 + 2/5?",
+      "answer": "3/10",
+      "correct": false,
+      "points": 0,
+      "time_spent": 5.171,
+      "difficulty": "easy",
+      "timestamp": "2026-01-21T02:45:39.126611"
+    },
+    {
+      "question": "Which is larger: 3/4 or 2/4?",
+      "answer": "3/4",
+      "correct": true,
+      "points": 125,
+      "time_spent": 6.746,
+      "difficulty": "easy",
+      "timestamp": "2026-01-21T02:45:50.892961"
+    },
+    {
+      "question": "Emma baked a pie and ate 3/8 of it. Her brother ate 2/8. How much of the pie did they eat together?",
+      "answer": "5/8",
+      "correct": true,
+      "points": 175,
+      "time_spent": 9.844,
+      "difficulty": "medium",
+      "timestamp": "2026-01-21T02:46:01.651793"
+    },
+    {
+      "question": "What is 5/6 - 1/3?",
+      "answer": "4/3",
+      "correct": false,
+      "points": 0,
+      "time_spent": 10.537,
+      "difficulty": "hard",
+      "timestamp": "2026-01-21T02:46:13.652039"
+    },
+    {
+      "question": "Which is greater: 5/8 or 3/4?",
+      "answer": "Equal",
+      "correct": false,
+      "points": 0,
+      "time_spent": 5.626,
+      "difficulty": "medium",
+      "timestamp": "2026-01-21T02:46:28.053500"
+    },
+    {
+      "question": "Multiply 0.4 by 3",
+      "answer": "1.2",
+      "correct": true,
+      "points": 110,
+      "time_spent": 10.007,
+      "difficulty": "easy",
+      "timestamp": "2026-01-21T02:46:48.014798"
+    },
+    {
+      "question": "What is 0.6 \u00d7 0.5?",
+      "answer": "0.11",
+      "correct": false,
+      "points": 0,
+      "time_spent": 6.397,
+      "difficulty": "medium",
+      "timestamp": "2026-01-23T03:58:36.930113"
+    },
+    {
+      "question": "Liam ate 1/4 of a chocolate bar. Then he ate 2/4 more. What fraction of the chocolate bar did he eat in total?",
+      "answer": "3/4",
+      "correct": true,
+      "points": 175,
+      "time_spent": 8.736,
+      "difficulty": "medium",
+      "timestamp": "2026-01-23T03:59:15.733857"
+    },
+    {
+      "question": "Lucy drank 2/5 of her juice in the morning and 1/5 later. How much did she drink in total?",
+      "answer": "3/5",
+      "correct": true,
+      "points": 175,
+      "time_spent": 5.371,
+      "difficulty": "medium",
+      "timestamp": "2026-01-23T03:59:22.223319"
+    },
+    {
+      "question": "A recipe needs 2/3 cup of milk, but you only have a 1/6 cup measuring spoon. How many scoops do you need?",
+      "answer": "4",
+      "correct": true,
+      "points": 200,
+      "time_spent": 15.45,
+      "difficulty": "hard",
+      "timestamp": "2026-01-23T03:59:38.519992"
+    },
+    {
+      "question": "Which is greater: 4/5 or 5/6?",
+      "answer": "5/6",
+      "correct": true,
+      "points": 225,
+      "time_spent": 5.795,
+      "difficulty": "hard",
+      "timestamp": "2026-01-23T03:59:45.127481"
+    },
+    {
+      "question": "If you have 7/8 of a cake and eat 3/4 of it, how much is left?",
+      "answer": "4/8",
+      "correct": false,
+      "points": 0,
+      "time_spent": 6.497,
+      "difficulty": "hard",
+      "timestamp": "2026-01-23T03:59:52.696186"
+    },
+    {
+      "question": "An angle measures 135\u00b0. What type of angle is it?",
+      "answer": "Obtuse",
+      "correct": true,
+      "points": 200,
+      "time_spent": 2.311,
+      "difficulty": "medium",
+      "timestamp": "2026-01-23T04:00:17.800350"
+    }
+  ]
+}
