@@ -23,8 +23,8 @@ import IAVA.routing
 application = ProtocolTypeRouter({
     "http": django_asgi_app,
     "websocket": AuthMiddlewareStack(
-        URLRouter([
+        URLRouter(
             IAVA.routing.websocket_urlpatterns
-        ])
+        )
     ),
 })
